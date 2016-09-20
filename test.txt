@@ -5,3 +5,6 @@ change here..Tortoise…
 new..
 text..
 test :)
+
+Updating with Bash
+Update with Tortoise…
